@@ -20,7 +20,9 @@ Berikut adalah bukti pengujian endpoint API yang dilindungi token, menunjukkan r
 
 <img width="719" height="392" alt="Cuplikan layar 2026-06-19 134336" src="https://github.com/user-attachments/assets/514276cc-fdb3-4685-a30f-da4ff9b992c1" />
 
+
 Dan ini bukti ketika sudah tidak error
+
 
 <img width="721" height="457" alt="image" src="https://github.com/user-attachments/assets/8b8c127d-0d96-4af5-b387-ebd6dc8a9e95" />
 
@@ -127,22 +129,6 @@ Install extension "Live Server"
 Klik kanan pada index.html → Open with Live Server
 
 
-Opsi 2: Menggunakan PHP Built-in Server
-
-bash
-php -S localhost:5500
-
-
-Opsi 3: Menggunakan Python
-
-bash
-python -m http.server 5500
-Frontend akan berjalan di: http://localhost:5500
-
-
-d. Login ke Aplikasi
-Buka browser dan akses: http://localhost:5500
-
 Credential Login:
 
 Username: admin
@@ -151,3 +137,5 @@ Password: admin123
 
 
 # Link Demo Aplikasi
+
+https://youtu.be/u675CwKMdTM?si=mv3wZ8dDSm5YJVOe

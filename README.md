@@ -49,6 +49,9 @@ Dashboard menampilkan statistik:
 Ini halaman Manajemen Buku tempat admin mengelola seluruh data koleksi buku/kitab perpustakaan dan Form Modal Tambah/Edit Data untuk menambah buku baru dengan fitur upload foto dan
 untuk mengedit data buku yang sudah ada.
 
+<img width="959" height="492" alt="Cuplikan layar 2026-06-19 161414" src="https://github.com/user-attachments/assets/a2728da8-54c5-4a8b-8c32-5304a41e829f" />
+
+
 <img width="949" height="479" alt="Cuplikan layar 2026-06-21 004548" src="https://github.com/user-attachments/assets/930378e2-fcad-42bd-b087-ee05bb319f29" />
 
 # 5. Halaman Manajemen Lainnya
